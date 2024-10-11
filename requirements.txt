@@ -1,0 +1,7 @@
+kaggle
+pandas 
+numpy
+ipykernel
+psycopg2
+sqlalchemy
+python-dotenv
